@@ -1,0 +1,30 @@
+html, body{
+    font-family:'Courier New', Courier, monospace;
+    font-size:49px;
+    text-align:center;
+    word-spacing: 20%;
+    letter-spacing: 1em;
+    line-height:3em;
+    padding: 0%;
+    border: 1px dotted rgb(43, 137, 237);
+    margin: 20px;
+    background-color: rgba(251, 202, 66, 0.7);
+    background-image: url("../media/tk\ copy.jpg");
+    background-size:cover;
+    background-image:cover;
+    opacity: 0.9;
+}
+
+img{
+    padding: 2%;
+    border: 2px dotted rgb(46, 174, 243) ;
+}
+
+#image2 img{
+    padding: 2%;
+    border: 2px dotted rgb(46, 174, 243);
+}
+
+video{
+  
+}
